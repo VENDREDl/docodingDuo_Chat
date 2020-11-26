@@ -1,3 +1,7 @@
+
+*  용량문제로 Github 링크를 제출합니다.
+
+
 // 사전준비
 
 1) chatbot-app-master

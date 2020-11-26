@@ -4,7 +4,7 @@
 
 // 사전준비
 
-1) chatbot-app-master
+1) chatbotLast
 
     - chatbot-app-master(Root) 디렉토리에서 "npm install"
     - client 디렉토리에서 "npm install"
